@@ -1,0 +1,4 @@
+Model,Accuracy (%),Precision (%),Recall (%),F1-Score (%),AUC-ROC,Params (M)
+Custom CNN,84.21,69.7,31.51,43.4,0.8516,0.65
+EfficientNetB0,80.79,0.0,0.0,0.0,0.4248,4.4
+MobileNetV2,94.21,83.12,87.67,85.33,0.9792,2.42
